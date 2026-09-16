@@ -9,3 +9,6 @@ I would store literature reviews, analysis scripts, drafts and reports in clearl
 
 3. Why is it important to have a good naming convention?
 A good naming convention helps researchers stay organised and quickly identify and locate files. It also makes it easier for team members to navigate shared research files and reduces the risk of files being misplaced or lost.
+
+4. Under what scenarios, creating a new brench would be useful (2-3 sentences)?
+Creating a new branch is useful when a team member wants to add a feature or test changes without affecting the main version of a project. It also allows others to review the changes before they are merged into the main branch.
